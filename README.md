@@ -5,6 +5,7 @@ Welcome to my Data Science Portfolio! This repository showcases my expertise in 
 ## 🎯 Portfolio Overview
 
 ## Data Science Ecosystem 
+Located in `/DataScienceEcosystem.ipynb`
 - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/DataScienceEcosystem.ipynb)
 - • `NAND Gate Neural Network` Built a working neural network that performs NAND logic operations
 - • `Interactive Visualizations:` Created plots showing decision boundaries and network performance

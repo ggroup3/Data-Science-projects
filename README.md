@@ -7,25 +7,29 @@ Welcome to my Data Science Portfolio! This repository showcases my expertise in 
 ### 🤖 Machine Learning Projects
 Located in `/machine_learning/`
 
-1. **Neural Networks Implementation** (`neural_network_implementation.ipynb`)
+1. **Neural Networks Implementation** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/machine_learning/neural_network_implementation.ipynb)
    - Custom implementation of NAND gate using perceptron
    - Multi-layer neural network architecture
    - Demonstration of threshold activation functions
    - Practical application of neural network concepts
 
-2. **Ensemble Learning vs Neural Networks** (`ensemble_vs_neural_nets.ipynb`)
+2. **Ensemble Learning vs Neural Networks** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/machine_learning/ensemble_vs_neural_nets.ipynb)
    - Comparative analysis using Breast Cancer dataset
    - Implementation of GradientBoostingClassifier
    - Neural Network implementation and training
    - Performance metrics and confusion matrices
 
-3. **Feature Engineering and SVM** (`feature_engineering.ipynb`)
+3. **Feature Engineering and SVM** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/machine_learning/feature_engineering.ipynb)
    - Support Vector Machine implementation
    - Feature selection and engineering techniques
    - Binary classification for preference prediction
    - Demonstration of supervised learning concepts
 
-4. **K-Means Clustering Analysis** (`kmeans_clustering.ipynb`)
+4. **K-Means Clustering Analysis** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/machine_learning/kmeans_clustering.ipynb)
    - Unsupervised learning implementation
    - Blog dataset analysis and insights
    - Text data preprocessing techniques
@@ -34,13 +38,15 @@ Located in `/machine_learning/`
 ### 🧮 Algorithms and Statistical Methods
 Located in `/algorithms/`
 
-1. **Optimization Techniques** (`optimization_techniques.ipynb`)
+1. **Optimization Techniques** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/algorithms/optimization_techniques.ipynb)
    - Advanced optimization algorithms
    - Implementation of various optimization methods
    - Performance analysis and comparisons
    - Real-world application examples
 
-2. **Statistical Methods** (`statistical_methods.ipynb`)
+2. **Statistical Methods** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/algorithms/statistical_methods.ipynb)
    - Statistical analysis implementations
    - Hypothesis testing
    - Probability distributions
@@ -49,13 +55,15 @@ Located in `/algorithms/`
 ### 📊 Data Analysis and Processing
 Located in `/data_analysis/`
 
-1. **Data Visualization Basics** (`data_visualization_basics.ipynb`)
+1. **Data Visualization Basics** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/data_analysis/data_visualization_basics.ipynb)
    - Fundamental visualization techniques
    - Data presentation methods
    - Visual analytics implementation
    - Matplotlib and Seaborn usage
 
-2. **Advanced Data Processing** (`advanced_data_processing.ipynb`)
+2. **Advanced Data Processing** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/data_analysis/advanced_data_processing.ipynb)
    - Complex data transformation techniques
    - Data cleaning and preprocessing
    - Feature extraction methods
@@ -64,19 +72,22 @@ Located in `/data_analysis/`
 ### 📚 Theory and Fundamentals
 Located in `/theory/` and `/fundamentals/`
 
-1. **Machine Learning Fundamentals** (`theory/ml_fundamentals.ipynb`)
+1. **Machine Learning Fundamentals** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/theory/ml_fundamentals.ipynb)
    - Core machine learning concepts
    - Theoretical foundations
    - Mathematical principles
    - Algorithm analysis
 
-2. **Python Programming Basics** (`fundamentals/python_basics.ipynb`)
+2. **Python Programming Basics** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/fundamentals/python_basics.ipynb)
    - Core Python concepts
    - Programming fundamentals
    - Basic algorithms
    - Code optimization techniques
 
-3. **Data Structures** (`fundamentals/data_structures.ipynb`)
+3. **Data Structures** 
+   - [View Notebook](https://nbviewer.org/github/ggroup3/Data-Science-projects/blob/main/fundamentals/data_structures.ipynb)
    - Advanced data structure implementations
    - Algorithm complexity analysis
    - Efficient data organization
